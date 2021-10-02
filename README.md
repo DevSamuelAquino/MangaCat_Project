@@ -1,6 +1,6 @@
-# manga_cat
+# Projeto MangaCat
 
-A new Flutter project.
+Meu projeto em flutter para um aplicativo focado na cultura japonesa das histórias em quadrinhos.
 
 ## Getting Started
 
