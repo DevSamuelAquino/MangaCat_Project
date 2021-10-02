@@ -7,11 +7,11 @@ Ainda está incompleto, acompanhe minha evolução! ☺️ </br>
   <img align="right" alt="ProfilePic" height="300" style="border-radius:50px;" src="https://media.discordapp.net/attachments/483775217143906317/893663948505759834/MangaCat_Logo.png?width=559&height=559">                   
 </div>
 
+<h1> Demonstração da Evolução até agora (02/10/2021) </h1>
+
 <div style="display: inline_block; float: left;"><br>
   <img align="right" alt="ProfilePic" height="300" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750852399815721092/893714564686946304/ezgif-2-e5d52c7634cf.gif?width=253&height=559">                   
 </div>
-
-<h1> Demonstração da Evolução até agora (02/10/2021) </h1>
 
 ## Getting Started
 
