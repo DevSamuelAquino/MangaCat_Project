@@ -5,9 +5,13 @@ Ainda está incompleto, acompanhe minha evolução! ☺️ </br>
 
 <h1> Demonstração da Evolução até agora (02/10/2021) </h1> </br>
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="ProfilePic" height="500" style="border-radius:50px;" src="https://media.discordapp.net/attachments/483775217143906317/893663948505759834/MangaCat_Logo.png?width=559&height=559">                   
-  <img align="right" alt="ProfilePic" height="500" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750852399815721092/893714564686946304/ezgif-2-e5d52c7634cf.gif?width=253&height=559">     
+<div style="display: inline_block"><br>    
+    <img align="right" alt="ProfilePic" height="275" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750852399815721092/893713121775058954/Characters.png?width=272&height=559">   
+  <img align="right" alt="ProfilePic" height="275" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750852399815721092/893713147188379648/Perfil.png?width=265&height=559">     
+    <img align="right" alt="ProfilePic" height="275" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750852399815721092/893718034949238795/Drawer.png?width=260&height=559">     
+    <img align="right" alt="ProfilePic" height="275" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750852399815721092/893713173155307530/Catalogo.png?width=254&height=558">      
+    <img align="right" alt="ProfilePic" height="275" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750852399815721092/893714485800472586/ezgif-2-e5d52c7634cf.png?width=253&height=559">     
+    <img align="right" alt="ProfilePic" height="450" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750852399815721092/893714564686946304/ezgif-2-e5d52c7634cf.gif?width=253&height=559">     
 </div>
 
 <!--
