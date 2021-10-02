@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079249276013",
+    "project_id": "mangacat-app",
+    "storage_bucket": "mangacat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079249276013:android:1353cfc81d2fc9cf32c364",
+        "android_client_info": {
+          "package_name": "com.howl.manga_cat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079249276013-i770prkl2eg9e1a2n5hlg7g63r8fh489.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7djk4EuV8B_4MA9-66TWH7c2IVidY9Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079249276013-i770prkl2eg9e1a2n5hlg7g63r8fh489.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
