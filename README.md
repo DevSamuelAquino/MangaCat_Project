@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<div style="display: inline_block"><br>
+  <img align="right" alt="ProfilePic" height="400" style="border-radius:50px;" src="https://media.discordapp.net/attachments/483775217143906317/893663948505759834/MangaCat_Logo.png?width=559&height=559">                   
+</div>
