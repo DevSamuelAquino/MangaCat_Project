@@ -1,4 +1,4 @@
-# Projeto MangaCat 🐱
+# Projeto MangaCat
 
 Meu projeto em flutter para um aplicativo focado na cultura japonesa das histórias em quadrinhos. </br>
 Ainda está incompleto, acompanhe minha evolução! ☺️
@@ -6,6 +6,8 @@ Ainda está incompleto, acompanhe minha evolução! ☺️
 <div style="display: inline_block"><br>
   <img align="right" alt="ProfilePic" height="300" style="border-radius:50px;" src="https://media.discordapp.net/attachments/483775217143906317/893663948505759834/MangaCat_Logo.png?width=559&height=559">                   
 </div>
+
+<h1> Demonstração da Evolução até agora (02/10/2021) </h1>
 
 ## Getting Started
 
