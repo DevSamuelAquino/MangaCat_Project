@@ -3,7 +3,7 @@
 Meu projeto em flutter para um aplicativo focado na cultura japonesa das histórias em quadrinhos.
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="ProfilePic" height="400" style="border-radius:50px;" src="https://media.discordapp.net/attachments/483775217143906317/893663948505759834/MangaCat_Logo.png?width=559&height=559">                   
+  <img align="right" alt="ProfilePic" height="300" style="border-radius:50px;" src="https://media.discordapp.net/attachments/483775217143906317/893663948505759834/MangaCat_Logo.png?width=559&height=559">                   
 </div>
 
 ## Getting Started
