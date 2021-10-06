@@ -11,7 +11,7 @@ Ainda está incompleto, acompanhe minha evolução! ☺️ </br>
     <img align="right" alt="ProfilePic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750852399815721092/893718034949238795/Drawer.png?width=260&height=559">     
     <img align="right" alt="ProfilePic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750852399815721092/893713173155307530/Catalogo.png?width=254&height=558">      
     <img align="right" alt="ProfilePic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750852399815721092/893714485800472586/ezgif-2-e5d52c7634cf.png?width=253&height=559">     
-    <img align="right" alt="ProfilePic" height="400" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750852399815721092/893714564686946304/ezgif-2-e5d52c7634cf.gif?width=253&height=559">     
+    <img align="right" alt="ProfilePic" height="350" style="border-radius:50px;" src="https://media.discordapp.net/attachments/750852399815721092/893714564686946304/ezgif-2-e5d52c7634cf.gif?width=253&height=559">     
 </div>
 
 <br>
